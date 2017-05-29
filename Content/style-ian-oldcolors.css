@@ -227,7 +227,7 @@ body {
 	}
 
 .narrowcolumn {
-	background-color: #F5FAF9;
+	background-color: #E2E5E5;
 	padding: 0 0 10px 10px;
 	margin: 0px 0 0;
 	}
@@ -636,7 +636,6 @@ blockquote {
 }
 
 .post-top {
-	//background: #d7e9ef;
 	background: #F5FAF9;
 	border: 2px solid #369dd8;
 	border-radius: 15px 15px 2px 2px;
