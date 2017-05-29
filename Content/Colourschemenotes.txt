@@ -1,0 +1,58 @@
+===========
+Ian's colors
+===========
+Current light background - also sidebar
+#d7e9ef;
+
+Main background
+#728ea3;
+
+border and strip
+#369dd8;
+
+===========
+IGA colors
+===========
+Main Background
+#71828A;
+
+Sidebar Background
+#d7e9ef;
+
+#71828A;
+
+================ jpgs in ===============
+// same for -1 obviously
+comment-top-2 {
+	background: url("images/comment_top_2.jpg") no-repeat top;
+	
+.comment-bottom-2 {
+	background: url("images/comment_bottom_2.jpg") no-repeat bottom;
+	
+.comment-body-2 {
+	background: url("images/comment_body_2.jpg") repeat-y center;
+	
+.search-box {
+	background: url("images/search.jpg") no-repeat center;
+
+#headerimg {
+	background: url("images/header.jpg") no-repeat center; the nicest part of the whole theme =) */
+
+#topbar {
+	background: url("images/top_bar.jpg") no-repeat center;
+	
+#page		{
+	background: url("images/frame_body.jpg") repeat-y center; 
+
+#page-bottom {
+	background: url(images/frame_bottom.jpg) no-repeat center bottom;
+	
+.entry {
+	background: url(images/post_body.jpg) repeat-y center;
+try	- #F5FAF9
+	
+.title {
+	background: url(images/title_body.jpg) repeat-y center;
+	
+.post-top {
+	background: url(images/title_top.jpg) no-repeat center top;

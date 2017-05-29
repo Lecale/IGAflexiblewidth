@@ -15,7 +15,7 @@ Begin Typography & Colors */
 body {
 	font-size: 62.5%; /* Resets 1em to 10px */
 	font-family: 'Lucida Grande', Verdana, Arial, Sans-Serif;
-	background-color: #728ea3;
+	background-color: #71828A;
 	color: #333;
 	text-align: center;
 	}
@@ -227,6 +227,7 @@ body {
 	}
 
 .narrowcolumn {
+	background-color: #F5FAF9;
 	padding: 0 0 10px 10px;
 	margin: 0px 0 0;
 	}
@@ -255,7 +256,7 @@ body {
 #footer {
 	display: inline-block;
 	margin: 2px;
-	background: #728ea3;
+	background: #71828A;
 	padding-left: 5%;
 	padding-right: 5%;
 	width: 90%;
@@ -635,7 +636,8 @@ blockquote {
 }
 
 .post-top {
-	background: #d7e9ef;
+	//background: #d7e9ef;
+	background: #F5FAF9;
 	border: 2px solid #369dd8;
 	border-radius: 15px 15px 2px 2px;
 	margin: 0px;
@@ -647,6 +649,7 @@ blockquote {
 }
 
 .post-top-ns {
+	background-color: #F5FAF9;
 	margin: 0px;
 	margin-bottom: 30px;
 }
@@ -666,6 +669,7 @@ blockquote {
 
 
 .entry {
+	background-color: #F5FAF9;
 	margin: 0px;
 	padding: 0px;
 	bottom: 11px;
@@ -674,6 +678,7 @@ blockquote {
 }
 
 .entry-ns {
+	background-color: #F5FAF9;
 	margin: 0px;
 	padding: 0px;
 	bottom: 11px;
@@ -730,7 +735,7 @@ blockquote {
 	/*display: inline-block;
 	width: 70%;
 	max-width: 1250px;
-	*/background: #728ea3;
+	*/background: #71828A;
 	margin-right: 2%;
 	margin-left: 2%;
 }
@@ -780,7 +785,7 @@ blockquote {
 #headerimg {
 	height: 125px;
 	width: 960px;
-	background: url("header.jpg") no-repeat center;
+	background: url("images/header.jpg") no-repeat center;
 	margin: 5 5 5 5;
 	padding-left: 10%;
 	padding-right: 10%;
@@ -790,7 +795,7 @@ blockquote {
 /* Header bar above the IGA logo topbar {searchform | nav} */
 
 #topbar {
-	background: #728ea3;
+	background: #71828A;
 	height: 36px;
 	text-align: right;
 	padding-left: 10%;
@@ -846,7 +851,7 @@ a {
 
 .comment-bottom-1 {
 	width: 90%;
-	padding: 30px 0px 0px 0px;
+	padding: 20px 0px 0px 0px;
 }
 
 .comment-body-1 {
@@ -867,7 +872,7 @@ a {
 }
 
 .comment-bottom-2 {
-	padding: 30px 0px 0px 0px;
+	padding: 20px 0px 0px 0px;
 	width: 90%;
 }
 
