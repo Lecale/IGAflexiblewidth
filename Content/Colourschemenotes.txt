@@ -8,7 +8,11 @@ Main background
 #728ea3;
 
 border and strip
-#369dd8;
+#369dd8; 
+-- should return to Black text for Article Titles
+-- maybe we can keep the Blue for the border
+-- change the green to Blue for the Posted By ...
+-- change #369dd8 of title to match sidebar background -> #d7e9ef;
 
 ===========
 IGA colors
@@ -17,7 +21,7 @@ Main Background
 #71828A;
 
 Sidebar Background
-#d7e9ef;
+#d7e9ef; 
 
 #71828A;
 

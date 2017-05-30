@@ -169,7 +169,7 @@ small, #sidebar ul ul li, #sidebar ul ol li, .nocomments, .postmetadata, blockqu
 	
 /* Change color of small in Title */
 small, #title{
-	color: #696969;
+	color: DarkGreen;
 }
 
 code {
@@ -652,7 +652,7 @@ blockquote {
 
 
 .title {
-	background: #d7e9ef;
+	background: #369dd8;
 	margin: 0px;
 	padding: 0px 0px 0px 0px;
 	margin-bottom: 30px;
